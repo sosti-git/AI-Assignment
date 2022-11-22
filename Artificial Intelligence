@@ -51,7 +51,7 @@ History of AI:
 
 First steps toward connectionist computation and learning (Hebbian learning). Marvin Minsky and Dann Edmonds (1951) constructed the first neural network computer – 1950: Alan Turing’s “Computing Machinery and Intelligence” First complete vision of AI.
 
-The birth of AI (1956)
+The birth of AI(1956)
 
 Dartmouth Workshop bringing together top minds on automata theory, neural nets and the study of intelligence. – Allen Newell and Herbert Simon: The logic theorist (first nonnumeric thinking program used for theorem proving) – For the next 20 years the field was dominated by these participants.
 Collapse in AI research (1966 - 1973) – Progress was slower than expected. – Unrealistic predictions. – Some systems lacked scalability. – Combinatorial explosion in search. – Fundamental limitations on techniques and representations. – Minsky and Papert (1969) Perceptrons.
