@@ -1,8 +1,16 @@
+
+Contents:
+
+Artificial Intelligence: AI
+AI Perspectives: acting and thinking humanly, acting and thinking rationally
+History of AI
+Foundations of AI: Philosophy, Economics, Psychology, Sociology, Linguistic, Neuroscience, Mathematics, Computer Science, Control Theory
+Applications of AI 
 Intelligence:
 Intelligence is the ability to reason, ability to understand, ability to create, ability to learn from experience and ability to plan and execute complex task.
 
 Artificial Intelligence:
-Artificial Intelligence is a branch of Science which deals with helping machines to find solutions to complex problems in a more human-like fashion. This generally involves borrowing characteristics from human intelligence, and applying them as algorithms in a computer friendly way. Artificial Intelligence is the part of computer science concerned with designing intelligence computer systems, that is, systems that exhibit the characteristics we associate with intelligence in human behavior.
+Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving.
 
 AI Perspectives
 1. Acting and Thinking humanly:
@@ -105,36 +113,24 @@ How can we build an efficient computer?
 AI has pioneered many ideas that have made their way back to mainstream computer science, including time sharing, interactive interpreters, personal computers with windows and mice, rapid development environments, the linked list data type, automatic storage management, and key concepts of symbolic, functional, declarative, and object-oriented programming.
 
 Applications of AI:
-Gaming:
-AI plays crucial role in strategic games such as chess, poker, tic-tac-toe, etc., where machine can think of large number of possible positions based on heuristic knowledge.
+AI has been dominant in various fields such as −
 
-Healthcare:
-In the last, five to ten years, AI becoming more advantageous for the healthcare industry and going to have a significant impact on this industry.Healthcare Industries are applying AI to make a better and faster diagnosis than humans. AI can help doctors with diagnoses and can inform when patients are worsening so that medical help can reach to the patient before hospitalization.
+Gaming − AI plays crucial role in strategic games such as chess, poker, tic-tac-toe, etc., where machine can think of large number of possible positions based on heuristic knowledge.
 
-Astronomy:
-Artificial Intelligence can be very useful to solve complex universe problems. AI technology can be helpful for understanding the universe such as how it works,origin, etc.
+Natural Language Processing − It is possible to interact with the computer that understands natural language spoken by humans.
 
-Robotics:
-Artificial Intelligence has a remarkable role in Robotics. Usually, general robots are programmed such that they can perform some repetitive task, but with the help of AI, we can create intelligent robots which can perform tasks with their own experiences without pre-programmed.Humanoid Robots are best examples for AI in robotics, recently the intelligent Humanoid robot named as Erica and Sophia has been developed which can talk and behave like humans.
+Expert Systems − There are some applications which integrate machine, software, and special information to impart reasoning and advising. They provide explanation and advice to the users.
 
-Entertainment:
-We are currently using some AI based applications in our daily life with some entertainment services such as Netflix or Amazon. With the help of ML/AI algorithms, these services show the recommendations for programs or shows.
+Vision Systems − These systems understand, interpret, and comprehend visual input on the computer. For example,
 
-Speech Recognition:
-Some intelligent systems are capable of hearing and comprehending the language in terms of sentences and their meanings while a human talks to it. It can handle different accents, slang words, noise in the background, change in human’s noise due to cold, etc.
+A spying aeroplane takes photographs, which are used to figure out spatial information or map of the areas.
 
-Handwriting Recognition:
-The handwriting recognition software reads the text written on paper by a pen or on screen by a stylus. It can recognize the shapes of the letters and convert it into editable text.
+Doctors use clinical expert system to diagnose the patient.
 
-Intelligent Robots:
-Robots are able to perform the tasks given by a human. They have sensors to detect physical data from the real world such as light, heat, temperature, movement, sound, bump, and pressure. They have efficient processors, multiple sensors and huge memory, to exhibit intelligence. In addition, they are capable of learning from their mistakes and they can adapt to the new environment.
+Police use computer software that can recognize the face of criminal with the stored portrait made by forensic artist.
 
-E-Commerce:
-AI is providing a competitive edge to the e-commerce industry, and it is becoming more demanding in the e-commerce business. AI is helping shoppers to discover associated products with recommended size, color, or even brand.
+Speech Recognition − Some intelligent systems are capable of hearing and comprehending the language in terms of sentences and their meanings while a human talks to it. It can handle different accents, slang words, noise in the background, change in human’s noise due to cold, etc.
 
-Education:
-AI can automate grading so that the tutor can have more time to teach. AI chatbot can communicate with students as a teaching assistant.AI in the future can be work as a personal virtual tutor for students, which will be accessible easily at any time and any place.
+Handwriting Recognition − The handwriting recognition software reads the text written on paper by a pen or on screen by a stylus. It can recognize the shapes of the letters and convert it into editable text.
 
-Social Media:
-Social Media sites such as Facebook, Twitter, and Snapchat contain billions of user profiles, which need to be stored and managed in a very efficient way. AI can organize and manage massive amounts of data. AI can analyze lots of data to identify the latest trends, hashtag, and requirement of different users.
-
+Intelligent Robots − Robots are able to perform the tasks given by a human. They have sensors to detect physical data from the real world such as light, heat, temperature, movement, sound, bump, and pressure. They have efficient processors, multiple sensors and huge memory, to exhibit intelligence. In addition, they are capable of learning from their mistakes and they can adapt to the new environment.
